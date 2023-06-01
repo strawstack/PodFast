@@ -2,6 +2,11 @@
 
 Automatically create and upload a short film/podcast to YouTube from a single prompt
 
+# Example Output
+
+Command: `python3 create.py "a review of john wick 4"`
+Output: https://youtu.be/RZOQD-iPnNk
+
 # Dependancies
 
 - pip install openai
